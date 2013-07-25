@@ -1,3 +1,21 @@
+openstack-resource-agents (2012.2~f3-1ppa3) precise; urgency=low
+
+  * Add missing RA for nova-conductor
+
+ -- Matteo Panella <morpheus@level28.org>  Thu, 25 Jul 2013 14:04:07 +0200
+
+openstack-resource-agents (2012.2~f3-1ppa2) precise; urgency=low
+
+  * Fix broken dependencies
+
+ -- Matteo Panella <morpheus@level28.org>  Thu, 25 Jul 2013 10:05:43 +0200
+
+openstack-resource-agents (2012.2~f3-1ppa1) precise; urgency=low
+
+  * Build package for precise
+
+ -- Matteo Panella <morpheus@level28.org>  Wed, 24 Jul 2013 14:47:21 +0200
+
 openstack-resource-agents (2012.2~f3-1) unstable; urgency=low
 
   * Initial release

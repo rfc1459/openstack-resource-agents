@@ -9,7 +9,7 @@ Homepage: http://github.com/madkiss/openstack-resource-agents
 
 Package: openstack-resource-agents
 Architecture: all
-Depends: ${misc:Depends}, netstat, python-keystoneclient, python-glanceclient, python-novaclient, curl
+Depends: ${misc:Depends}, python-keystoneclient, python-glanceclient, python-novaclient, curl
 Description: pacemaker resource agents for OpenStack
  This package contains resource agents to run most of the OpenStack
  components inside a pacemaker-controlled high availability cluster. 
