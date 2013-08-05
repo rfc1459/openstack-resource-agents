@@ -1,3 +1,10 @@
+openstack-resource-agents (2012.2~f3-1ppa4) precise; urgency=low
+
+  * Fix resource agent for quantum-l3-agent
+  * Add resource agent for quantum-openvswitch-agent
+
+ -- Matteo Panella <morpheus@level28.org>  Mon, 05 Aug 2013 10:48:02 +0200
+
 openstack-resource-agents (2012.2~f3-1ppa3) precise; urgency=low
 
   * Add missing RA for nova-conductor
